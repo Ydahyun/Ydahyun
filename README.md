@@ -13,10 +13,11 @@
 ## 🛠 기술 스택
 숙련된 기술 스택입니다.
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![sklearn](https://camo.githubusercontent.com/6e2f7a4fd162b8aed5284bbcddc0950cdca1310b1e3f2f30fee8b21ce34543d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736b6c6561726e2d4637393331453f7374796c653d666c6174266c6f676f3d7363696b69746c6561726e266c6f676f436f6c6f723d7768697465)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 ---
 
 ## 📂 프로젝트
