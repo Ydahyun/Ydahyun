@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I’m%20Ydahyun!&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=To%20be%20Charm%20Cracker&fontSize=40&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&pause=1000&color=F7A5A5&width=500&lines=안녕하세요!+양다현입니다.;우리FISA+5기+AI엔지니어링+과정에+참여하고+있어요.)](https://git.io/typing-svg)
 
