@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I’m%20Ydahyun!&fontSize=40&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&pause=1000&color=F7A5A5&width=435&lines=안녕하세요!+데이터를+사랑하는+양다현입니다.;AI%2F데이터+분석을+공부하고+있어요!)](https://git.io/typing-svg)
+
 ## 👋 안녕하세요, 양다현입니다!
 
 - 🎓 [전남대학교/물리학, IoT인공지능융합전공/25.08 졸업예정]  
